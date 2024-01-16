@@ -2,7 +2,7 @@
 A Simple Movies Search Website Using Pure HTML,CSS,JAVASCRIPT
 
 
-ools used:
+Tools used:
 
 HTML
 CSS
